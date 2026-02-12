@@ -129,7 +129,98 @@ This is firsthand testimony from a teenage private who had no reason to fabricat
 
 ---
 
-## Chief Justice Marshall on the Eyewitnesses
+### Governor Brooks
+
+Governor Brooks provided crucial testimony about Putnam's actions during the retreat:
+
+> "He was informed by Col. Webb, a distinguished Connecticut officer, who signalized himself in Bunker-Hill battle, that Gen. Putnam (whose Aid he was afterwards) on the retreat, remained in the rear by a cannon, with a serjeant, the only man he could persuade to stand by him, till the enemy were just upon them with their bayonets, when the serjeant was shot down and he was compelled to retire."
+
+Governor Brooks also testified that "going to Cambridge in the forenoon, met Gen. Putnam riding toward Bunker Hill."
+
+---
+
+### Judge Grosvenor
+
+Judge Grosvenor testified to Putnam's leadership in the preparation and battle:
+
+> "Under the immediate superintendence of Gen. Putnam, ground was broken and a redoubt formed. The next day Gen. Putnam was extremely active and directed principally the operations. After the British landed, a detachment of four Lieutenants and 120 men of Gen. Putnam's Regt. under Capt. Knowlton were by the Gen. ordered to take post at a rail fence on the left of the breastwork. The Gen. inspired confidence by his example; of the officers the most active were Putnam, Prescott, and Knowlton."
+
+---
+
+### Abner Allen, Western (Grosvenor's Company)
+
+Abner Allen gave sworn testimony before a Judge of the Supreme Court:
+
+> "Went on the night before the battle; Putnam was then and there called Gen. and acted as such. I was at the rail fence, and do know that Gen. Putnam was in the engagement. **I saw him on horseback urging the men to fight with great earnestness; he was as much exposed as any man engaged.**"
+
+---
+
+### Josiah Hill, Tyringham (Putnam's Regiment)
+
+> "I know that Gen. Putnam was in the battle, took part in the engagement, and **was as much exposed as any body in the battle.**"
+
+---
+
+### Reverend Army Chaplain
+
+The Chaplain testified to Putnam's leadership before the battle:
+
+> "Gen. Putnam did all that man could do to induce the men to go on to the Hill. He led on Capt. Knowlton with part of a Connecticut Regt. I was the intimate friend of Col. Prescott and Lt. Col. Robinson, and from the mouths of those heroes I had this account."
+
+---
+
+### Thomas Cooke, Esq., Member of Massachusetts Congress
+
+Cooke, a signer of "sword in hand money," gave this account:
+
+> "He went to one of the neighboring hills to view the battle; **'saw Gen. Putnam, who did all that man could do to get on the men to Breed's Hill; he appeared firm, resolute, thoughtless of personal danger; his praise was in the mouth of every one at that time, he never heard a disrespectful word against him.'**"
+
+---
+
+### Reuben Kemp, Brooklyn, Connecticut (Stark's Regiment)
+
+Reuben Kemp testified to Putnam's command and the famous order:
+
+> "Arrived at the high grounds over the neck; were furnished with intrenching tools and began to throw up a breastwork; in ten or fifteen minutes the drums beat to arms, and we were marched immediately. **Gen. Putnam seemed to have the ordering of things.**
+
+> He charged the men not to fire till the enemy came close to the works, and to take good aim and make every shot kill a man. A few pieces were discharged before the order, Gen. Putnam passed along the lines quickly and **threatened to stab any one who fired without order.**
+
+> The enemy got pretty near the works, we were ordered to take good aim and fire. **At this time Gen. Putnam was constantly passing backward and forward from right to left.**"
+
+---
+
+### Isaac Bassett, Killingley (Putnam's Regiment)
+
+Isaac Bassett gave detailed testimony about Putnam's actions:
+
+> "Was at the redoubt and breastwork just as the action commenced; **saw Gen. Putnam there with his sword drawn, encouraging and animating the troops.** My father was going off with a wounded man, Gen. Putnam stopped him, pricking his arm with his sword, and told him not a soldier should leave the ground.
+
+> **I saw Gen. Putnam in the hottest of the fight, calling on the men to stand their ground; I am sure he was at the same post when the enemy scaled the walls of the redoubt.**"
+
+---
+
+### Ebenezer Bean, Conway (Stark's Regiment)
+
+[Additional testimony from Ebenezer Bean to be added when full text is available.]
+
+---
+
+## Summary of Testimony
+
+These additional eyewitnesses corroborate the same facts:
+
+| Witness | Key Evidence |
+|---------|--------------|
+| **Gov. Brooks** | Putnam stayed at cannon in rear during retreat until enemy approached with bayonets |
+| **Judge Grosvenor** | Putnam supervised redoubt construction; ordered troops to rail fence; most active officer |
+| **Abner Allen** | Saw Putnam on horseback at rail fence urging men; "as much exposed as any man" |
+| **Josiah Hill** | Putnam "as much exposed as any body in the battle" |
+| **Rev. Chaplain** | Putnam led Knowlton's men to the Hill |
+| **Thomas Cooke** | Putnam "thoughtless of personal danger"; praise was universal |
+| **Reuben Kemp** | Putnam gave firing orders; threatened to stab those who fired early; constantly moving |
+| **Isaac Bassett** | Putnam with sword drawn in hottest of fight; stopped retreating soldiers |
+
+**Pattern:** Multiple witnesses, from different units, all describing Putnam on horseback, under fire, giving orders, and inspiring troops. This is the 
 
 Marshall specifically noted that:
 
