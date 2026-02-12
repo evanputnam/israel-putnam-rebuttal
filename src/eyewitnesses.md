@@ -91,6 +91,44 @@ The following table summarizes the known sworn statements supporting Putnam's co
 
 ---
 
+## Further Testimonies
+
+The following are firsthand accounts from soldiers who fought at Bunker Hill, presented in their own words. This is the "flood" of sworn affidavits that Chief Justice John Marshall referenced—evidence that was being "trod under" by Dearborn's verbal attacks.
+
+### Philip Johnson, Private in Captain Benjamin Perkins' Company
+
+Philip Johnson, a native of Newburyport, was approximately 19 years old at the time of the battle. His sworn testimony provides crucial details about Putnam's presence and commands:
+
+> "Mr. Johnson states that he was a private in Capt. Benjamin Perkin's company, and about 19 years of age, at the time of Bunker Hill Battle. The company proceeded as stated by Colonel [Joseph] Whitmore, till they came to within gunshot of the frigate Lively, [actually the Glasgow] which lay in the stream, and threw her shot across the neck.
+
+> As the company were proceeding, a shot from the frigate struck in the rear of them, and appeared to startle some of the men. Some cried out, 'it is a shell.' Lieut. (now Colonel) Whitmore, immediately jumped over the fence, where it struck, took the ball and showed it to the company, and observed, 'it was only a ball.'
+
+> When they crossed the neck, Capt. Perkins ordered the men to go in single file six feet apart. They reached Bunker Hill without any loss. The company were principally scattered, and the men took their places where they could find them.
+
+> Mr. Johnson passed the redoubt and went to the left to the rail fence; he went back again and went into the redoubt. He was soon crowded out of the redoubt, and he and a Mr. [Jacob] Knapp of the company went again to the rail fence. All this was before the battle commenced.
+
+> **While he was at the rail fence, and just before the battle commenced, he saw Gen. [Israel] Putnam on horseback very near him, and distinctly heard him say, 'Men, you know you are all marksmen; you can take a squirrel from the tallest tree; don't fire till you see the whites of their eyes.'**
+
+> Immediately after the first retreat of the British, Gen. Putnam rode up and said, 'Men, you have done well, but next time you will do better, aim at the officers.'
+
+> The third time the British came up to the redoubt, they entered without much firing, and the retreat commenced. **Just as Mr. Johnson left his place at the rail fence, which was about half a gunshot from the redoubt, Gen. Putnam rode up, his horse covered with foam, and said something, he does not distinctly know what, and rode off.** The balls were flying as thick as peas.
+
+> The particular manner in which the British came up the hill, and their several evolutions, Mr. Johnson does not recollect with sufficient accuracy to state. He heard no cheering by the Americans, till after the first retreat of the British. There were fifteen or sixteen killed and wounded in his company."
+
+#### Significance of Johnson's Testimony
+
+Johnson's account is devastating to Dearborn's claims:
+
+1. **Putnam on horseback** — Directly contradicts Dearborn's claim that "no officers were mounted"
+2. **"Horse covered with foam"** — Confirms Putnam was actively riding between positions under fire
+3. **"Don't fire till you see the whites of their eyes"** — Johnson heard Putnam give this famous order at the rail fence
+4. **Putnam's encouragement** — Between British attacks, Putnam was rallying troops: "aim at the officers"
+5. **Location: rail fence** — Johnson was at the rail fence when he saw Putnam, not Bunker Hill as Dearborn claimed
+
+This is firsthand testimony from a teenage private who had no reason to fabricate details—and who, as a member of Captain Perkins' company, was not under Putnam's direct command, making him an objective witness.
+
+---
+
 ## Chief Justice Marshall on the Eyewitnesses
 
 Marshall specifically noted that:
