@@ -470,6 +470,114 @@ Colonel Wade was Captain in Little's Regiment:
 
 ---
 
+### John Stevens, Andover (Frye's Regiment)
+
+> "Went over night. Was in the fort. **Saw Putnam in the fort before small arms fired; told them, not to fire till they saw the white of their eyes. Threatened to kill some who fired too soon.**"
+
+---
+
+### George Leach, Salem (Whitcomb's Regiment)
+
+> "Our company detached to the hill in the evening. Was at rail fence. **Saw Putnam repeatedly during the march to the Hill, urging and directing the men where to station themselves. In the height of the action, saw Putnam again at the fence encouraging the men.**"
+
+---
+
+### David Brewer, Framingham
+
+> "Our Captain, afraid to go on, was marching off, **when Putnam met us at the neck, and turned us back on to the hill.**"
+
+---
+
+### Joseph Trask, Billerica (Gardner's Regiment) - Extended Testimony
+
+> "Putnam ordered them to make a breastwork on Bunker Hill, which they commenced. **A short time afterwards, Putnam came back, and ordered the Col. to march and take a position. Saw Putnam repeatedly at the fence during the action, encouraging the men and officers, calling out to the officers to drive the men up, and not let them flinch.** Knew Putnam well; for some time one of his guard."
+
+---
+
+### John Hopkins, Templeton
+
+Same Regiment (Gardner's): "Came upon the Hill just as they left the Redoubt."
+
+### William Dickson, Charlestown (Gardner's Regiment)
+
+> "Before we took up our march for Bunker Hill, and before we reached Prospect Hill, I am sure I heard the musketry fire. Battle began a great while before we reached Bunker Hill. **The musket balls flew very thick where Putnam was, nearly or quite on top of Bunker Hill. He did not seem to mind it.** The balls pierced a cartridge-box, a hat, and breech of a gun. Putnam had his sword in his hand, and hallooed to us to drive up."
+
+---
+
+### Major Daniel Jackson, Newton (Sergeant, Foster's Artillery Company)
+
+Major Jackson kept a written journal. On June 17, 1775, he entered: "Bunker Hill fight was this day. Capt. Foster's company was ordered down; but they did not get there time enough to do the good they ought, nor Col. Gardner's Regt. [They were together.]"
+
+---
+
+### Captain Francis Green, Boston (Gardner's Regiment)
+
+One of the Boston Assessors, of the highest respectability: "The battle was nearly over when we arrived at the rail fence. It began, I think, when we were at Patterson's station. One of our men was wounded by a musket-ball on top of Bunker Hill. **On our retreat, saw Putnam on Bunker Hill; he was in danger from the balls flying there; he tried to stop us, and to make us take up intrenching tools, as I understood him to throw up a breastwork there.**"
+
+---
+
+### Enoch Baldwin, Milton (Gardner's Regiment)
+
+> "Was in the same, Gardner's Regt. and sergeant of the leading company. Marched to corner of road to Lechmere's Point to a fort where Patterson's Regt. was posted. Gen. Ward's Aid D. C. came some time after battle commenced with orders for us to march to Bunker Hill. Passed the Neck by files; helped drag some cannon to the top of the Hill. **Gen. Putnam rode up to the Col. full gallop, and advised him to let his men carry on some intrenching tools; and said, we should not have any more fighting, as the British had been beaten twice and had retreated the second time.**"
+
+---
+
+### Elijah Jourdan, Bucksfield
+
+Deposed before a very respectable Magistrate, Sam'l F. Brown, Esq.: "Helped build the intrenchments, and fought within the intrenchment till the British took possession of our fort; during which time, **I perfectly well remember that Gen. Putnam was in the said intrenchment [breastwork] very frequently during the engagement, giving orders as commander in chief; and I perfectly recollect, that he was in the fort when the reinforcement of the British came up.** While we were waiting for the British to come up the Hill, orders were given to us not to fire till we could see the whites of their eyes; and this order, I was then told, came from Gen. Putnam."
+
+---
+
+### Colonel Joseph Whitmore, Newburyport (Lieutenant, Little's Regiment)
+
+Well known as a most respectable witness, a native of Charlestown: "Went with part of his company down to the left of Redoubt, near some trees which were standing, and there received the attack. On the retreat, Col. Whitmore was wounded in his thigh. **The Col. states, that, at the very moment he was wounded, Gen. Warren fell, and was within six feet of him.** As it respects Gen. Putnam, Col. Whitmore states, that he knew Gen. Putnam perfectly well; that he was well acquainted with him in the old French war; that he saw Gen. Putnam on Breed's Hill when he went on with his company, and also on the retreat soon after he was wounded, on the side of the Hill. He says, that, well knowing Gen. Putnam and the Gen. knowing him, he said, 'General, shan't we rally again?' **Gen. Putnam said, 'Yes, as soon as we can, are you wounded?'**"
+
+---
+
+### Philip Johnson, Esq., Newburyport (Same Company as Whitmore)
+
+Statement before same Magistrate: "Was at the rail fence. While there, just before the action began, **he saw Gen. Putnam on horseback very near him, and distinctly heard him say, 'Men, you know you are all marksmen, you can take a squirrel from the tallest tree. Don't fire till you see the whites of their eyes.'** Immediately after the first retreat of the British, Gen. Putnam rode up and said, 'Men, you have done well, but next time you will do better, aim at the officers.' The British entered the redoubt without much firing, and the retreat commenced. Just as Mr. Johnson left his place at the rail fence, about half a gun shot from the redoubt, **General Putnam rode up, his horse covered with foam, and said something, he does not distinctly know what, and rode off.** 'The balls were flying as thick as peas.' More unexceptionable witnesses than these two never testified."
+
+---
+
+### Colonel Small (British Officer) - Acknowledgment of Putnam's Heroism
+
+Colonel Small sent a present to Putnam by a flag with warm acknowledgments. Putnam had saved Small's life during the battle: **"After the enemy were repulsed from the left and centre where he was, the firing continued brisk on the right, to which he rode quickly; the smoke and dust clearing off, the first thing he saw was Small, standing alone, close to the breastwork, deserted by his men. An American drew up his piece to level at him; Putnam prevented him, and hallooed aloud to those near who were preparing to fire: 'don't fire, he's a friend of mine.' He was obeyed, and Small, thanking him, escaped.**"
+
+Colonel Small later declared to Colonel Trumbull and Major Garden that **"Gen. Putnam was in this situation, and in this manner saved his life."** Colonel Small stated this as a motive which should have induced him to attempt to save the life of his friend Warren.
+
+---
+
+### Samuel Bassett, Stark's Regiment
+
+> "His company left Medford later than the rest, was at Ploughed hill about past 2, a little before the fire commenced. **In about 15 minutes, Gen. Putnam came on the gallop, and said, 'up, my brave boys, for God's sake! we drive them.'**"
+
+---
+
+### Deacon Millar, Charlestown (Gardner's Regiment)
+
+> "Was in Gardner's Regt. and just over the neck at the foot of Bunker Hill when the musketry fire began, and did not see Gen. Putnam till he was half way up Bunker Hill, **when he ordered them to carry on intrenching tools.**"
+
+---
+
+### Ezra Runnels, Middleborough (Gridley's Artillery Company)
+
+> "I belonged to Capt. Gridley's artillery company... **I well remember of seeing Gen. Putnam at the breastwork during the battle.** Before that time, residing in Groton, Connecticut, was personally acquainted with him. **I repeatedly saw him during the action walking upon the breastwork and animating the men to exert themselves.** Capt. Gridley, having received some cartridges which were too large for our pieces, said that nothing could be done with them, and left his post, and our company was scattered. **General Putnam came to one of the pieces, near which I stood, and furiously inquired where our officers were?** On being told our cartridges were too big, and that the pieces could not be loaded, **he swore, and said they could be loaded, taking a cartridge, he broke it open, and loaded the pieces with a ladle, which was discharged; and assisted us in loading two or three times in that manner.**"
+
+---
+
+### Aaron Smith, Shrewsbury
+
+Statement before S. D. Ward, Esq.: "I assisted in preparing the intrenchment at the rail fence, under Putnam's orders; and was, during the whole battle, at that place. **Putnam was active, so far as I saw, in discharge of his duty. Though I served a considerable length of time, never heard that he was chargeable with any misconduct. He appeared to me to have, and I always understood he had, the command of the troops.**"
+
+---
+
+### Colonel John Page, Atkinson
+
+Stated before John Vose, Esq.: "Was in the action. **Saw Gen. Putnam, before the action commenced, conducting cannon to the fort; saw him after the firing commenced.** Well recollects he thought Putnam did not want courage."
+
+---
+
 ## Summary of Testimony
 
 These additional eyewitnesses corroborate the same facts:
