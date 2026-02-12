@@ -1,6 +1,8 @@
 module.exports = function(eleventyConfig) {
   // Copy static assets
   eleventyConfig.addPassthroughCopy("assets");
+  eleventyConfig.addPassthroughCopy("src/robots.txt");
+  eleventyConfig.addPassthroughCopy("src/sitemap.xml");
   
   // Add date filter
   eleventyConfig.addFilter("dateDisplay", (date) => {

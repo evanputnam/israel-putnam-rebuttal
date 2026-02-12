@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://israel-putnam-rebuttal.pages.dev/sitemap.xml
