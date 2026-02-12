@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ title }} | Israel Putnam: The True History</title>
+  <meta name="description" content="{% if description %}{{ description }}{% else %}Defending the legacy of General Israel Putnam at the Battle of Bunker Hill with primary sources and eyewitness testimony.{% endif %}">
+  <link rel="stylesheet" href="/assets/css/main.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <a href="/index.html" class="site-title">Israel Putnam</a>
+      <nav class="site-nav">
+        <a href="/index.html">Home</a>
+        <a href="/the-claims/index.html">The False Claims</a>
+        <a href="/the-rebuttal/index.html">The Rebuttal</a>
+        <a href="/eyewitnesses/index.html">Eyewitnesses</a>
+        <a href="/about/index.html">About Putnam</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="main-content">
+    <div class="container">
+      {{ content | safe }}
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>Defending history with primary sources. A project by Evan Putnam.</p>
+      <p><a href="https://revolutionarywarjournal.com/american-legend-general-israel-putnam-his-disappearing-act-at-the-battle-of-bunker-hill-june-17-1775/" target="_blank">Responding to Revolutionary War Journal</a></p>
+    </div>
+  </footer>
+</body>
+</html>

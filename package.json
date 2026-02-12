@@ -1,0 +1,15 @@
+{
+  "name": "israel-putnam-rebuttal",
+  "version": "1.0.0",
+  "description": "Historical rebuttal site defending General Israel Putnam's legacy at Bunker Hill",
+  "scripts": {
+    "build": "eleventy",
+    "serve": "eleventy --serve",
+    "start": "eleventy --serve"
+  },
+  "keywords": ["israel-putnam", "bunker-hill", "american-revolution", "history"],
+  "author": "Evan Putnam",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  }
+}
